@@ -16,6 +16,6 @@ The classifier used transfer learning utilizing ResNet50 as the underlying model
 
 A function that's indirectly in the app is a custom fish detector and image cleaner. The detector can locate fish in an image and cut out the remaining image leaving you with a 
 clean picture of a fish to use for building a fish classifier with. This saves tons of time during the process of cleaning the images as most fish images scraped from the internet
-have a person holding them adding extra noise to the image. This custom detector can save tons of time if a higheer quality fish classifier were to be built.
+have a person holding them adding extra noise to the image. This custom detector can save tons of time if a higher quality fish classifier were to be built.
 
 
