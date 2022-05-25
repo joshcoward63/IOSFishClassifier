@@ -1,4 +1,4 @@
-# Fish Classification App of IOS
+# Fish Classification App for IOS
 
 ## Overview
 This is a under developed fishing app I started to learn more about mobile development specfially on IOS along with computer vision and transfer learning.</br>
